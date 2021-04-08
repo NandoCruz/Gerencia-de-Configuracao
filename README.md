@@ -1,4 +1,4 @@
-# Gerencia de Configuracao
+# Gerência de Configuração
 
 ## Aulas de Gerência de Configuração
 
